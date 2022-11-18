@@ -1,0 +1,27 @@
+{
+  "name": "discord.js_template",
+  "version": "1.0.0",
+  "description": "Discord.js Handler based with discordjs.guide with a little of modifications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Scoooolzs",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.6.0",
+    "glob": "^8.0.3",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoooolzs/discord.js-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Scoooolzs/discord.js-handler/issues"
+  },
+  "homepage": "https://github.com/Scoooolzs/discord.js-handler#readme"
+}
